@@ -1,5 +1,5 @@
 sdr_wallet_bot
-import# sdr_wallet_bot.py
+import# sdr_wallet_bot
 import os
 import logging
 from telegram import Update
